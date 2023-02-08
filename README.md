@@ -3,9 +3,11 @@
 
 ## I'm a Software Engineer/Developer and Student 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I Love to learn new things
 - 🌱 If you think you can teach me from your past expriance feel free to connnect me on social media links given below
-- 🥅 2022 Goals: Contribute more to Open Source projects and create my own projects
+- 🥅 2023 Goals: 
+<br/>1.Contribute to community via stack overflow.
+<br/>2.To create my own projects for experiments and get good understanding of the technologies im working on
 
 ### Connect with me:
 
@@ -16,6 +18,8 @@
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /> 
+<img align="left" alt="Springboot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> 
 
  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
