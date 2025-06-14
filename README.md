@@ -5,9 +5,10 @@
 
 - 🌱 I Love to learn new things
 - 🌱 If you think you can teach me from your past expriance feel free to connnect me on social media links given below
-- 🥅 2023 Goals: 
-<br/>1.Contribute to community via stack overflow.
-<br/>2.To create my own projects for experiments and get good understanding of the technologies im working on
+- 🥅 2025 Goals: 
+<br/>To create my own projects for experiments and get good understanding of the technologies im working on
+<br/>Learn System Design.
+<br/>Solve DSA questions with consistency 
 
 ### Connect with me:
 
